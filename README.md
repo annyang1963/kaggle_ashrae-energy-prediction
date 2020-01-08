@@ -1,4 +1,4 @@
-# kaggle_ashrae-energy-prediction
+# ashrae-energy-prediction
 ## data
 ### train.csv
 building_id - Foreign key for the building metadata.
@@ -47,5 +47,5 @@ simple EDA
 ## fill_weather_data.ipynb
 replace missing weather data by external data and fill missing value by site_id, month and day
 
-## model_by_meter_type.ipynb
+## model_v6_HMY.ipynb
 train model by meter type (0,1,2,3)
