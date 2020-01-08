@@ -48,4 +48,6 @@ simple EDA
 replace missing weather data by external data and fill missing value by site_id, month and day
 
 ## model_v6_HMY.ipynb
+model summary
+
 train model by meter type (0,1,2,3)
